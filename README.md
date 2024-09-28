@@ -26,7 +26,7 @@ chmod +x papertrail-downloader
 ### Nix
 
 ```
-nix run github:VanCoding/papertrail-downloader -- [OPTIONS]
+nix run github:ndelvalle/papertrail-downloader -- [OPTIONS]
 ```
 
 ## Use
